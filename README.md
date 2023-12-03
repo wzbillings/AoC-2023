@@ -1,8 +1,16 @@
 # Advent of Code 2023
-Zane Billings
 
-These are my solutions for Advent of Code 2023. To reproduce my results, you
-should:
+These are my solutions for Advent of Code 2023.
+
+## Contents
+
+* `R`: contains the solution scripts for each problem.
+* `data`: contains the input files for each problem.
+* All the other files are some type of documentation or housekeeping.
+
+## Getting started
+
+To reproduce my results, you should:
 
 1. Clone or download the git repository.
 1. Open the `.Rproj` file in RStudio (if you don't use RStudio, you have
