@@ -13,8 +13,6 @@ source(here::here("R", "funcs.R"))
 input <-
 	readr::read_lines(here::here("data", "day-03-input.txt"))
 
-#input <- readr::read_lines(here::here("test-case.txt"))
-
 # PART 1 SOLUTION ----
 
 # This one actually seems quite difficult, I've never had to work with text
