@@ -8,6 +8,10 @@ These are my solutions for [Advent of Code 2023](https://adventofcode.com/2023).
 * `data`: contains the input files for each problem.
 * All the other files are some type of documentation or housekeeping.
 
+## Difficulty ranking (easiest to hardest)
+
+`2, 1, 4, 3`
+
 ## Getting started
 
 To reproduce my results, you should:
